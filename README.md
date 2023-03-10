@@ -1,8 +1,8 @@
-Markdown Cheatsheet<a name="TOP"></a>
+***Markdown Cheatsheet*** - 강신재
 ===================
 
 - - - - 
-# Heading 1 #
+# 제 1 제목 #
 
     Markup :  # Heading 1 #
 
@@ -10,7 +10,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제 2 제목 ##
 
     Markup :  ## Heading 2 ##
 
